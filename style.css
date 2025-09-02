@@ -6,12 +6,12 @@
 }
 
 :root {
-    --cor-primaria: #4CAF50;   /* Verde principal */
-    --cor-secundaria: #2E7D32; /* Verde mais escuro */
-    --cor-fundo: #F0F4F8;      /* Fundo claro */
-    --cor-texto: #333;         /* Texto padrão */
+    --cor-primaria: #4CAF50;
+    --cor-secundaria: #2E7D32;
+    --cor-fundo: #F0F4F8;
+    --cor-texto: #333;
     --cor-branco: #fff;
-    --cor-destaque: #FFC107;   /* Amarelo destaque */
+    --cor-destaque: #FFC107;
 }
 
 body {
@@ -96,7 +96,6 @@ main {
     margin-left: 40px;
 }
 
-/* Projetos */
 .projeto {
     text-align: center;
     background: var(--cor-branco);
@@ -133,7 +132,6 @@ main {
     background: var(--cor-secundaria);
 }
 
-/* Rodapé */
 footer {
     text-align: center;
     margin-top: 40px;
